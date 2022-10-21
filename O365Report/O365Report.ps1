@@ -1,4 +1,5 @@
-Set-Location "C:\Users\beyemen\Documents\Scripts"
+Set-Location "C:\Users\user\Documents\Scripts"
+#define path here
 
 Connect-AzureAD
 
